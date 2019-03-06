@@ -1,0 +1,6 @@
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

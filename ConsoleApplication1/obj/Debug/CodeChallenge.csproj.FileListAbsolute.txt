@@ -1,0 +1,6 @@
+\\testcbsh.com\kcdfstesthome\Home1\TEST\ctrebing\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\testcbsh.com\kcdfstesthome\Home1\TEST\ctrebing\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\testcbsh.com\kcdfstesthome\Home1\TEST\ctrebing\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\testcbsh.com\kcdfstesthome\Home1\TEST\ctrebing\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\CodeChallenge.csprojResolveAssemblyReference.cache
+\\testcbsh.com\kcdfstesthome\Home1\TEST\ctrebing\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\testcbsh.com\kcdfstesthome\Home1\TEST\ctrebing\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

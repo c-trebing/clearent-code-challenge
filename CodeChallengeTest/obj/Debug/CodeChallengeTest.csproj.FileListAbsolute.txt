@@ -1,0 +1,8 @@
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\CodeChallengeTest\bin\Debug\CodeChallengeTest.dll
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\CodeChallengeTest\bin\Debug\CodeChallengeTest.pdb
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\CodeChallengeTest\bin\Debug\ConsoleApplication1.exe
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\CodeChallengeTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\CodeChallengeTest\bin\Debug\ConsoleApplication1.pdb
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\CodeChallengeTest\obj\Debug\CodeChallengeTest.csprojResolveAssemblyReference.cache
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\CodeChallengeTest\obj\Debug\CodeChallengeTest.dll
+\\testcbsh.com\kcdfstesthome\home1\test\ctrebing\documents\visual studio 2015\Projects\ConsoleApplication1\CodeChallengeTest\obj\Debug\CodeChallengeTest.pdb
